@@ -1,0 +1,424 @@
+{
+  "placeholderImages": [
+    {
+      "id": "logo.png",
+      "description": "Dada Mjenzi Logo",
+      "imageUrl": "/logo.png",
+      "imageHint": "company logo"
+    },
+    {
+      "id": "whatsapp.png",
+      "description": "WhatsApp Logo",
+      "imageUrl": "/whatsapp.png",
+      "imageHint": "whatsapp button"
+    },
+    {
+      "id": "og-image.jpg",
+      "description": "Dada Mjenzi OpenGraph Image",
+      "imageUrl": "/og-image.jpg",
+      "imageHint": "interior design"
+    },
+    {
+      "id": "testimonial-sarah.png",
+      "description": "Testimonial from Sarah Njoki",
+      "imageUrl": "/testimonial-sarah.png",
+      "imageHint": "happy client"
+    },
+    {
+      "id": "testimonial-michael.png",
+      "description": "Testimonial from Michael Njuguna",
+      "imageUrl": "/testimonial-michael.png",
+      "imageHint": "happy client"
+    },
+    {
+      "id": "testimonial-emily.png",
+      "description": "Testimonial from Emily Mwangi",
+      "imageUrl": "/testimonial-emily.png",
+      "imageHint": "happy client"
+    },
+    {
+      "id": "home.png",
+      "description": "Beautiful home interior",
+      "imageUrl": "/home.png",
+      "imageHint": "living room"
+    },
+    {
+      "id": "professional-ceo-hellen.png",
+      "description": "Hellen Wangui Macharia, Founder & CEO",
+      "imageUrl": "/professional-ceo-hellen.png",
+      "imageHint": "professional woman"
+    },
+    {
+      "id": "team-milly.png",
+      "description": "Betty Mariana, Master Tiling Specialist",
+      "imageUrl": "/team-milly.png",
+      "imageHint": "team member"
+    },
+    {
+      "id": "team-mike.png",
+      "description": "Emily Nduta, Cabinet Maker",
+      "imageUrl": "/team-mike.png",
+      "imageHint": "team member"
+    },
+    {
+      "id": "team-sarah.png",
+      "description": "Daisy Miro, Furniture Restoration Specialist",
+      "imageUrl": "/team-sarah.png",
+      "imageHint": "team member"
+    },
+    {
+      "id": "showroom.jpg",
+      "description": "Dada Mjenzi Showroom",
+      "imageUrl": "/showroom.jpg",
+      "imageHint": "interior showroom"
+    },
+    {
+      "id": "gallery/painting/modern-living-room.png",
+      "description": "Modern Living Room Painting",
+      "imageUrl": "/gallery/painting/modern-living-room.png",
+      "imageHint": "living room paint"
+    },
+    {
+      "id": "gallery/painting/historic-home-exterior.png",
+      "description": "Historic Home Exterior Painting",
+      "imageUrl": "/gallery/painting/historic-home-exterior.png",
+      "imageHint": "house exterior"
+    },
+    {
+      "id": "gallery/painting/contemporary-bedroom.png",
+      "description": "Contemporary Bedroom Painting",
+      "imageUrl": "/gallery/painting/contemporary-bedroom.png",
+      "imageHint": "bedroom paint"
+    },
+    {
+      "id": "gallery/painting/office-space.png",
+      "description": "Office Space Painting",
+      "imageUrl": "/gallery/painting/office-space.png",
+      "imageHint": "office interior"
+    },
+    {
+      "id": "gallery/painting/childrens-playroom.png",
+      "description": "Children's Playroom Painting",
+      "imageUrl": "/gallery/painting/childrens-playroom.png",
+      "imageHint": "playroom colorful"
+    },
+    {
+      "id": "gallery/painting/dining-room.png",
+      "description": "Dining Room Painting",
+      "imageUrl": "/gallery/painting/dining-room.png",
+      "imageHint": "dining room"
+    },
+    {
+      "id": "gallery/painting/kitchen-walls.png",
+      "description": "Kitchen Walls Painting",
+      "imageUrl": "/gallery/painting/kitchen-walls.png",
+      "imageHint": "kitchen paint"
+    },
+    {
+      "id": "gallery/painting/bathroom-painting.png",
+      "description": "Bathroom Painting",
+      "imageUrl": "/gallery/painting/bathroom-painting.png",
+      "imageHint": "bathroom paint"
+    },
+    {
+      "id": "gallery/painting/staircase-feature.png",
+      "description": "Staircase Feature Painting",
+      "imageUrl": "/gallery/painting/staircase-feature.png",
+      "imageHint": "staircase design"
+    },
+    {
+      "id": "gallery/painting/exterior-house.png",
+      "description": "Exterior House Painting",
+      "imageUrl": "/gallery/painting/exterior-house.png",
+      "imageHint": "house exterior paint"
+    },
+    {
+      "id": "gallery/tiling/luxury-master-bathroom.png",
+      "description": "Luxury Master Bathroom Tiling",
+      "imageUrl": "/gallery/tiling/luxury-master-bathroom.png",
+      "imageHint": "luxury bathroom"
+    },
+    {
+      "id": "gallery/tiling/modern-bathroom.png",
+      "description": "Modern Bathroom Tiling",
+      "imageUrl": "/gallery/tiling/modern-bathroom.png",
+      "imageHint": "modern bathroom"
+    },
+    {
+      "id": "gallery/tiling/kitchen-backsplash.png",
+      "description": "Kitchen Backsplash Tiling",
+      "imageUrl": "/gallery/tiling/kitchen-backsplash.png",
+      "imageHint": "kitchen backsplash"
+    },
+    {
+      "id": "gallery/tiling/floor-tiling.png",
+      "description": "Floor Tiling",
+      "imageUrl": "/gallery/tiling/floor-tiling.png",
+      "imageHint": "floor tile"
+    },
+    {
+      "id": "gallery/tiling/shower-enclosure.png",
+      "description": "Shower Enclosure Tiling",
+      "imageUrl": "/gallery/tiling/shower-enclosure.png",
+      "imageHint": "shower tile"
+    },
+    {
+      "id": "gallery/tiling/mosaic-design.png",
+      "description": "Mosaic Tiling Design",
+      "imageUrl": "/gallery/tiling/mosaic-design.png",
+      "imageHint": "mosaic tile"
+    },
+    {
+      "id": "gallery/tiling/outdoor-patio.png",
+      "description": "Outdoor Patio Tiling",
+      "imageUrl": "/gallery/tiling/outdoor-patio.png",
+      "imageHint": "patio tile"
+    },
+    {
+      "id": "gallery/tiling/fireplace-surround.png",
+      "description": "Fireplace Surround Tiling",
+      "imageUrl": "/gallery/tiling/fireplace-surround.png",
+      "imageHint": "fireplace tile"
+    },
+    {
+      "id": "gallery/tiling/entryway-floor.png",
+      "description": "Entryway Floor Tiling",
+      "imageUrl": "/gallery/tiling/entryway-floor.png",
+      "imageHint": "entryway tile"
+    },
+    {
+      "id": "gallery/tiling/pool-area.png",
+      "description": "Pool Area Tiling",
+      "imageUrl": "/gallery/tiling/pool-area.png",
+      "imageHint": "pool tile"
+    },
+    {
+      "id": "gallery/cabinetry/contemporary-kitchen.png",
+      "description": "Contemporary Kitchen Cabinetry",
+      "imageUrl": "/gallery/cabinetry/contemporary-kitchen.png",
+      "imageHint": "kitchen cabinets"
+    },
+    {
+      "id": "gallery/cabinetry/walk-in-closet.png",
+      "description": "Walk-in Closet Cabinetry",
+      "imageUrl": "/gallery/cabinetry/walk-in-closet.png",
+      "imageHint": "closet organizer"
+    },
+    {
+      "id": "gallery/cabinetry/home-office.png",
+      "description": "Home Office Cabinetry",
+      "imageUrl": "/gallery/cabinetry/home-office.png",
+      "imageHint": "home office"
+    },
+    {
+      "id": "gallery/cabinetry/bathroom-vanity.png",
+      "description": "Bathroom Vanity",
+      "imageUrl": "/gallery/cabinetry/bathroom-vanity.png",
+      "imageHint": "bathroom vanity"
+    },
+    {
+      "id": "gallery/cabinetry/entertainment-center.png",
+      "description": "Entertainment Center",
+      "imageUrl": "/gallery/cabinetry/entertainment-center.png",
+      "imageHint": "media center"
+    },
+    {
+      "id": "gallery/cabinetry/kitchen-island.png",
+      "description": "Kitchen Island",
+      "imageUrl": "/gallery/cabinetry/kitchen-island.png",
+      "imageHint": "kitchen island"
+    },
+    {
+      "id": "gallery/cabinetry/pantry-organization.png",
+      "description": "Pantry Organization",
+      "imageUrl": "/gallery/cabinetry/pantry-organization.png",
+      "imageHint": "pantry shelves"
+    },
+    {
+      "id": "gallery/cabinetry/laundry-room.png",
+      "description": "Laundry Room Cabinets",
+      "imageUrl": "/gallery/cabinetry/laundry-room.png",
+      "imageHint": "laundry room"
+    },
+    {
+      "id": "gallery/cabinetry/bar-cabinet.png",
+      "description": "Bar Cabinet",
+      "imageUrl": "/gallery/cabinetry/bar-cabinet.png",
+      "imageHint": "bar cabinet"
+    },
+    {
+      "id": "gallery/cabinetry/bedroom-wardrobe.png",
+      "description": "Bedroom Wardrobe",
+      "imageUrl": "/gallery/cabinetry/bedroom-wardrobe.png",
+      "imageHint": "wardrobe closet"
+    },
+    {
+      "id": "gallery/furniture/antique-dresser.png",
+      "description": "Antique Dresser Restoration",
+      "imageUrl": "/gallery/furniture/antique-dresser.png",
+      "imageHint": "antique furniture"
+    },
+    {
+      "id": "gallery/furniture/dining-table.png",
+      "description": "Dining Table Refinishing",
+      "imageUrl": "/gallery/furniture/dining-table.png",
+      "imageHint": "wood table"
+    },
+    {
+      "id": "gallery/furniture/vintage-chair.png",
+      "description": "Vintage Chair Restoration",
+      "imageUrl": "/gallery/furniture/vintage-chair.png",
+      "imageHint": "vintage chair"
+    },
+    {
+      "id": "gallery/furniture/bookshelf-refinish.png",
+      "description": "Bookshelf Refinishing",
+      "imageUrl": "/gallery/furniture/bookshelf-refinish.png",
+      "imageHint": "bookshelf wood"
+    },
+    {
+      "id": "gallery/furniture/coffee-table.png",
+      "description": "Coffee Table Restoration",
+      "imageUrl": "/gallery/furniture/coffee-table.png",
+      "imageHint": "coffee table"
+    },
+    {
+      "id": "gallery/furniture/armoire-revival.png",
+      "description": "Armoire Revival",
+      "imageUrl": "/gallery/furniture/armoire-revival.png",
+      "imageHint": "armoire vintage"
+    },
+    {
+      "id": "gallery/furniture/bed-frame.png",
+      "description": "Bed Frame Refinishing",
+      "imageUrl": "/gallery/furniture/bed-frame.png",
+      "imageHint": "wood bed"
+    },
+    {
+      "id": "gallery/furniture/side-table.png",
+      "description": "Side Table Makeover",
+      "imageUrl": "/gallery/furniture/side-table.png",
+      "imageHint": "side table"
+    },
+    {
+      "id": "gallery/furniture/cabinet-doors.png",
+      "description": "Cabinet Door Refinishing",
+      "imageUrl": "/gallery/furniture/cabinet-doors.png",
+      "imageHint": "cabinet door"
+    },
+    {
+      "id": "gallery/furniture/wooden-bench.png",
+      "description": "Wooden Bench Restoration",
+      "imageUrl": "/gallery/furniture/wooden-bench.png",
+      "imageHint": "wood bench"
+    },
+    {
+      "id": "gallery/solar/residential-rooftop.png",
+      "description": "Residential Rooftop Solar",
+      "imageUrl": "/gallery/solar/residential-rooftop.png",
+      "imageHint": "solar panels"
+    },
+    {
+      "id": "gallery/solar/commercial-building.png",
+      "description": "Commercial Building Solar",
+      "imageUrl": "/gallery/solar/commercial-building.png",
+      "imageHint": "commercial building"
+    },
+    {
+      "id": "gallery/solar/solar-water-heating.png",
+      "description": "Solar Water Heating",
+      "imageUrl": "/gallery/solar/solar-water-heating.png",
+      "imageHint": "solar water"
+    },
+    {
+      "id": "gallery/solar/ground-mount-system.png",
+      "description": "Ground Mount Solar System",
+      "imageUrl": "/gallery/solar/ground-mount-system.png",
+      "imageHint": "solar farm"
+    },
+    {
+      "id": "gallery/solar/battery-storage.png",
+      "description": "Battery Storage",
+      "imageUrl": "/gallery/solar/battery-storage.png",
+      "imageHint": "battery storage"
+    },
+    {
+      "id": "gallery/solar/school-installation.png",
+      "description": "School Solar Installation",
+      "imageUrl": "/gallery/solar/school-installation.png",
+      "imageHint": "school building"
+    },
+    {
+      "id": "gallery/solar/farm-solar-system.png",
+      "description": "Farm Solar System",
+      "imageUrl": "/gallery/solar/farm-solar-system.png",
+      "imageHint": "farm solar"
+    },
+    {
+      "id": "gallery/solar/solar-carport.png",
+      "description": "Solar Carport",
+      "imageUrl": "/gallery/solar/solar-carport.png",
+      "imageHint": "solar carport"
+    },
+    {
+      "id": "gallery/solar/monitoring-system.png",
+      "description": "Solar Monitoring System",
+      "imageUrl": "/gallery/solar/monitoring-system.png",
+      "imageHint": "solar monitor"
+    },
+    {
+      "id": "gallery/solar/maintenance-service.png",
+      "description": "Solar Maintenance Service",
+      "imageUrl": "/gallery/solar/maintenance-service.png",
+      "imageHint": "solar maintenance"
+    },
+    {
+      "id": "/videos/kitchen-before.mp4",
+      "description": "Kitchen before renovation",
+      "imageUrl": "/videos/kitchen-before.jpg",
+      "imageHint": "old kitchen"
+    },
+    {
+      "id": "/videos/kitchen-after.mp4",
+      "description": "Kitchen after renovation",
+      "imageUrl": "/videos/kitchen-after.jpg",
+      "imageHint": "new kitchen"
+    },
+    {
+      "id": "/videos/bathroom-before.jpg",
+      "description": "Bathroom before renovation",
+      "imageUrl": "/videos/bathroom-before.jpg",
+      "imageHint": "old bathroom"
+    },
+    {
+      "id": "/videos/bathroom-after.jpg",
+      "description": "Bathroom after renovation",
+      "imageUrl": "/videos/bathroom-after.jpg",
+      "imageHint": "new bathroom"
+    },
+    {
+      "id": "/videos/bathroom-tiling.mp4",
+      "description": "Bathroom tiling process",
+      "imageUrl": "/videos/bathroom-tiling.jpg",
+      "imageHint": "bathroom tiling"
+    },
+    {
+      "id": "/videos/cabinet-installation.mp4",
+      "description": "Cabinet installation",
+      "imageUrl": "/videos/cabinet-installation.jpg",
+      "imageHint": "installing cabinets"
+    },
+    {
+      "id": "/videos/solar-installation.mp4",
+      "description": "Solar panel installation",
+      "imageUrl": "/videos/solar-installation.jpg",
+      "imageHint": "solar installation"
+    },
+    {
+      "id": "/videos/furniture-restoration.mp4",
+      "description": "Furniture restoration",
+      "imageUrl": "/videos/furniture-restoration.jpg",
+      "imageHint": "restoring furniture"
+    }
+  ]
+}
