@@ -61,7 +61,7 @@ export function Hero() {
             >
               Crafting Spaces That
               <br />
-              <span className="text-orange-500 bg-gradient-to-r from-orange-400 to-orange-600 bg-clip-text text-transparent">
+              <span className="text-orange-500">
                 Inspire & Delight
               </span>
             </h1>

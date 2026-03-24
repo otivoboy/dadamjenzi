@@ -1,3 +1,4 @@
+
 "use client"
 
 import { useState, useEffect } from "react"
@@ -27,7 +28,7 @@ export function WhatsAppFloat() {
 
   return (
     <div
-      className="whatsapp-float fixed right-2 bottom-2 md:right-8 md:bottom-8 w-[80px] h-[80px] md:w-[120px] md:h-[120px] z-[50] cursor-pointer group transition-opacity duration-1000 animate-in fade-in"
+      className="whatsapp-float fixed right-4 bottom-4 md:right-8 md:bottom-8 w-[70px] h-[70px] md:w-[120px] md:h-[120px] z-[50] cursor-pointer group transition-opacity duration-1000 animate-in fade-in"
       onClick={handleClick}
     >
       <div className="absolute md:top-[-40px] top-0 left-0 w-full md:h-[calc(100%+40px)] h-full md:animate-swing-loop origin-top flex flex-col items-center">
@@ -42,7 +43,7 @@ export function WhatsAppFloat() {
           />
         </div>
       </div>
-      <div className="absolute bottom-[-10px] left-1/2 -translate-x-1/2 w-[60px] h-[10px] bg-black/25 rounded-[50%] blur-[6px]"></div>
+      <div className="absolute bottom-[-10px] left-1/2 -translate-x-1/2 w-[50px] h-[10px] bg-black/25 rounded-[50%] blur-[6px]"></div>
     </div>
   )
 }

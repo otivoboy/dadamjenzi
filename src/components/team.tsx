@@ -114,7 +114,7 @@ export function Team() {
                 className="relative p-6 md:p-10 bg-gradient-to-br from-gray-800 to-gray-900 border-2 border-orange-500/30 shadow-2xl"
               >
                 <div className="absolute -top-3 left-1/2 transform -translate-x-1/2 z-10">
-                  <div className="bg-gradient-to-r from-orange-600 to-yellow-600 text-white px-4 py-2 rounded-full text-xs md:text-sm font-bold flex items-center shadow-lg whitespace-nowrap">
+                  <div className="bg-orange-500 text-white px-4 py-2 rounded-full text-xs md:text-sm font-bold flex items-center shadow-lg whitespace-nowrap">
                     <Crown className="h-4 w-4 mr-2" />
                     FOUNDER & CEO
                   </div>
@@ -135,7 +135,7 @@ export function Team() {
 
                   <div className="flex-1 text-center lg:text-left">
                     <h3 className="text-3xl md:text-4xl font-bold mb-2 text-white font-headline">{member.name}</h3>
-                    <div className="text-xl mb-6 font-medium bg-gradient-to-r from-orange-400 to-yellow-400 bg-clip-text text-transparent">
+                    <div className="text-xl mb-6 font-medium text-orange-500">
                       {member.role}
                     </div>
                     <p className="text-gray-300 text-lg mb-8 leading-relaxed max-w-3xl">{member.experience}</p>

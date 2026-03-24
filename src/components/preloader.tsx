@@ -111,7 +111,7 @@ export function Preloader() {
             DADA MJENZI
           </h1>
           <p className="text-orange-500 text-sm uppercase tracking-widest font-semibold">
-            Building Your Houses
+            Building Your Homes
           </p>
         </div>
 
